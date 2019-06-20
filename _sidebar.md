@@ -5,7 +5,7 @@
 
 * 1_经济学
     * [1_微观经济学<sup style = "color:red">2446字<sup>](docs/1_经济学/1_微观经济学.md)
-    * [2_宏观经济学<sup style = "color:red">3737字<sup>](docs/1_经济学/2_宏观经济学.md)
+    * [2_宏观经济学<sup style = "color:red">4702字<sup>](docs/1_经济学/2_宏观经济学.md)
     * [3_国际经济学<sup style = "color:red">1542字<sup>](docs/1_经济学/3_国际经济学.md)
     * [5_财政学<sup style = "color:red">6431字<sup>](docs/1_经济学/5_财政学.md)
     * [6_产业经济学<sup style = "color:red">3875字<sup>](docs/1_经济学/6_产业经济学.md)
