@@ -1,3 +1,3 @@
-## 读书笔记
+## 课程学习笔记
 
-点击左边的目录翻翻看吧
+http://www.guofei.site/course/#/

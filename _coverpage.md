@@ -6,4 +6,4 @@
 
 
 [GitHub](https://github.com/guofei9987/course/)
-[Get Started](/_sidebar)
+[Get Started](/_main)
