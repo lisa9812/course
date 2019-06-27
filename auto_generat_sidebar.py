@@ -6,11 +6,10 @@ import re
 import string
 
 # 字数统计
-regex_chinese = re.compile('[\u4e00-\u9fa5]')  # 汉字
-regex_English = re.compile('[0-9a-zA_Z]+')  # 数字和英语单词
+regex_chinese = re.compile('[\u4e00-\u9fa5]') # 汉字
+regex_English = re.compile('[0-9a-zA_Z]+') # 数字和英语单词
 # 中文标点和英文标点
 regex_punctuation = re.compile('[!"()*+,./:;<=>?{|}~。；，：“”（）、？《》]')
-
 
 def word_count(file_name_md):
     f = open(file_name_md, 'r', encoding='utf-8')
@@ -86,7 +85,6 @@ class Tree:
         return 0 if (root is None) else root.word_num + sum([self.pre_order2(i) for i in root.children.values()])
 
 
-# path = r'C:\Users\guofei8\Desktop\git\GitHub\reading\docs'
 path = os.getcwd() + r'\docs'
 tree = Tree(path)
 sidebar = tree.pre_order(tree.root.children[tree.path2])
@@ -115,6 +113,11 @@ f = open('_sidebar.md', 'w', encoding='utf-8')
 f.write(head + content + tail)
 f.close()
 
+f = open('_main.md', 'w', encoding='utf-8')
+# print(head+content)
+# f.write(head+content.encode('utf-8').decode('utf-8'))
+f.write(content)
+f.close()
 
 # %%
 # 统计每个板块的字数
