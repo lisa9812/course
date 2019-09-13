@@ -683,3 +683,384 @@ Reflex arc:
     - sensor probe is placed in rectum
     - requires practice and training for accurate readings
 - important to take a temperature when patient is healthy –then, are able to compare future readings to this baseline temperature
+
+
+## Vital Signs:  Respiration Rate
+
+### Video 5.1:  Basic Anatomy of the Respiratory System
+
+- **Respiratory system:**
+  - nares (nostrils)
+  - nasal cavity
+  - **pharynx**
+    - nasopharynx
+    - ropharynx
+    - laryngopharynx
+  - **larynx**
+    - **epiglottis**
+      - during swallowing, the epiglottis covers the opening through the larynx to direct what is swallowed to the **esophagus**
+  - **trachea**
+    - divides to form the right and left **primary bronchi**
+    - primary bronchi branch for form **secondary bronchi**
+      - 2 left secondary bronchi
+      - 3 right secondary bronchi
+
+
+
+### Video 5.2:  Anatomy of Ventilation
+
+- **ventilation**
+  - **inhalation-**
+    - chest wall moves out and up, stretching the elastic tissue
+    - inhalation is an _active process-_
+      - **quiet inspiration** –involves contraction of:
+        - diaphragm-
+        - external intercostal muscles
+      - **forced inspiration**
+        - requires contraction of additional skeletal muscles
+        - these accessory muscles are:
+          - sternocleidomastoid
+          - scalenes
+          - pectoralis minor
+  - **exhalation-**
+    - chest wall moves down and in
+    - **quiet exhalation** is a _passive process-_ elastic tissue retracts to normal position
+    - exhalation becomes an active process, too, if one is breathing vigorously
+    - **forceful exhalation** –skeletal muscles involved:
+      - muscles of the abdominal wall
+      - internal intercostals
+- **pleura**
+  - pleurae are one example of a serous membrane- thin membrane layer that covers the outer surface of organs in the body cavity, then reflects outward to line the cavity
+    - **visceral pleura**
+    - **parietal pleura**
+    - **pleural cavity** –a thin potential space which is filled with _pleural fluid_ that is secreted by the pleural membranes –
+      - creates **adhesive force-**
+
+
+### Video 5.3:  The Mechanics of Breathing
+
+- Inhalation-
+  - lung volume increases - decrease in **intrapulmonary pressure**
+  - when intrapulmonary pressure is less than atmospheric pressure, air flows into lungs
+- Exhalation-
+  - lung volume decreases - increase in intrapulmonary pressure
+  - when intrapulmonary pressure is greater than atmospheric pressure, air flows out of the lungs
+- **spirometry tracing:**
+  - **tidal volume** –average adult tidal volume = 500 mL
+  - **inspiratory reserve volume**
+  - **expiratory reserve volume**
+  - **vital capacity**
+  - **residual volume** –volume of air left in the lungs at the end of a forceful exhalation
+    - keeps alveoli open –makes it easier to take the next breath
+- a greater **resistance** in the respiratory system makes it more difficult to move air in and out of the airways
+  - **bronchoconstriction:**
+    - parasympathetic nervous system-
+  - **bronchodilation:**
+    - sympathetic nervous system-
+
+
+### Video 5.4:  Gas Exchange
+
+**Gas exchange**
+
+- **alveoli** –the air pockets of the lungs, site of gas exchange
+  - each alveolus has a very thin wall surrounded by a dense network of capillaries
+- gas exchange takes place across the **respiratory membrane**
+  - layers of the respiratory membrane
+  - O2 and CO2 move across the respiratory membrane via the process of **diffusion**
+    - concentrations of gases in a mixture is measured as **partial pressures** -
+- each gas (O2 and CO2) diffuses down its own partial pressure gradient
+- as deoxygenated blood flows into the pulmonary capillaries
+  - partial pressure of O2 is relatively lower
+  - partial pressure of CO2 is relatively higher
+- gas exchange occurs in the pulmonary capillaries, and oxygenated blood then flows into the pulmonary veins
+  - partial pressure of O2 is high
+  - partial pressure of CO2 is lower
+- as oxygenated blood flows into the systemic capillaries
+  - partial pressure of O2 is high
+  - partial pressure of CO2 is relatively low
+- gas exchange occurs in the systemic capillaries, and deoxygenated blood flows into the systemic veins
+  - partial pressure of O2 is lower
+  - partial pressure of CO2 is relatively high
+
+
+
+### Video 5.5:  Regulating Respiration Rate
+
+Control of respiration rate:
+
+- **chemoreceptors** –the specialized chemoreceptors that monitor changes in O2, CO2, and pH of body fluids
+  - they are categorized as peripheral or central chemoreceptors
+    - **peripheral chemoreceptors**
+      - located in the aortic and carotid bodies
+      - monitor the chemistry of systemic arterial blood
+    - **central chemoreceptors**
+      - in the brainstem near the control centers for respiration rate
+      - monitor changes in the **cerebrospinal fluid**
+      - cerebrospinal fluid is separated from the blood by the **blood brain barrier**
+      - normally, central chemoreceptors play the main role in regulating respiration rate
+- chemical factors influencing respiration
+  - carbon dioxide
+    - increased pCO2 in systemic arterial blood is the most powerful stimulus for regulation of respiration rate
+    - it is the central chemoreceptors that are most sensitive to increased pCO2 in arterial blood
+    - however, the increased pCO2 affects the central chemoreceptors indirectly –by causing the pH of the cerebrospinal fluid to decrease
+  - oxygen
+    - pO2 may fall low enough to stimulate respiration in certain clinical situations (i.e. pneumonia, congestive heart failure)
+    - it is peripheral chemoreceptors that are most responsive to increased pO2 in arterial blood
+  - pH
+    - acids (free H+) are generated in the body via metabolism
+    - examples of these types of acids are lactic acid &amp; ketoacids
+    - peripheral receptors are most responsive to the decreased pH associated with accumulation of metabolic acids
+- **regulating respiration**
+  - when chemoreceptors are activated, they increase activation of respiratory centers in the medulla of the brainstem
+  - this results in increased neural impulses to respiratory muscles
+  - under normal circumstances, the indirect activation of central chemoreceptors by the increased pCO2 of systemic arterial is the primary stimulus regulating respiration
+
+  - **chronic o****bstructive pulmonary disease (COPD)** –condition in which there is impaired recoil ability of lung tissue
+    - also, in patients with COPD, there is a destruction of alveolar walls - enlarged air pockets
+    - these enlarged air pockets cause increased dead space in lungs --i.e., these spaces are not involved in gas exchange
+  - slower, deeper breaths (versus shallow, rapid breaths) is more efficient at getting more fresh gas into the alveoli
+    - if recoil properties are impaired, however, it may not be possible to breath efficiently
+
+
+
+### Video 5.6:  Assessing Respiration Rate Demonstration
+
+- subject should be comfortable &amp; relaxed to get a baseline respiration rate
+  - there is a large range of respirations rate –on average, normal range is 15-20 breaths per minute in adults
+
+- physical activity and emotional stress can cause an increased respiration rate
+- respiration rate is slowed, or depressed, in certain periods of sleep and in hypothermia
+- certain medications may also alter breathing rate
+
+- clinically speaking, the quality of the subject/patient&#39;s breathing is also important
+  - is the person having labored breathing, are they short of breath, do they wheeze or cough while breathing
+  - when someone has to engage accessory muscles to accomplish quiet breathing, this person is working harder than normal to breath
+
+
+
+
+
+### Video 5.7:  Regulating Respiration Rate Review
+
+- two types of chemoreceptors-
+  - **central chemoreceptors:**
+  - **peripheral chemoreceptors:**
+- primary controls of respiration:
+  - **pCO ****2**  **-**
+    - the most powerful stimulus for respiration
+    - affects central chemoreceptors by crossing the blood brain barrier –causes an increased formation of carbonic acid in the CSF increased formation of free H+ (decreased pH)
+  -** pH-**
+  -** O ****2 –**
+    - low pO2 stimulates peripheral chemoreceptors to increase respiration rate
+
+
+
+
+
+### Video 5.7:  Assessing Breath Sounds Demo
+
+- assess to see if breath sounds are normal or abnormal (i.e., **adventitious** )
+  - there are several different types of adventitious breath sounds
+
+- have patient take a deep breath when **auscultating-**
+  - review of lung anatomy:
+    - right lung has three lobes –upper, middle &amp; lower lobes
+    - left lung has two lobes –upper &amp; lower lobes
+  - have subject take deeps breaths while you move stethoscope around, in a ladder pattern, so you can listen at multiple sites
+
+
+- types of abnormal sounds
+  - **crackles**(**rales**)–could hear when patient has pneumonia or pulmonary edema (fluid accumulation in the lungs)
+  - **wheezing** –common to hear this sound when someone has asthma
+
+
+
+## Vital Signs:  Pain
+
+### Video 6.1:  The Anatomy&Physiology of Pain, Part 1
+
+- Introduction to pain
+  - the symptom most likely to inspire people to seek medical care
+  - defined as a sensory &amp; emotional experience that is unpleasant and has the role of alerting us to potential damage to the body or body tissues
+  - there are different qualities and experiences of pain
+
+
+
+- Sensory experience of pain
+  - the nervous system has 2 arms
+    - sensory –which consists of receptors and nerve fibers (carried in nerves) that conduct impulses/information toward the spinal cord &amp; brain
+    - motor –consists of nerve fibers (carried in nerves) that conduct impulses to effectors (effectors are either muscles or glands)
+  - sensory arm begins with specialized sensory receptors called **nociceptors**
+    - respond to potential harmful stimuli
+    - 3 types of stimuli activate nociceptors:
+      - **mechanical:**
+      - **thermal:**
+      - **chemical:**
+    - inflammatory chemicals make nociceptors more sensitive -\&gt; signal that a damaging stimulus is occurring
+  - the role of sensory receptors is to convert stimulus energy to electrical energy, which can be conducted down the axons (nerve fibers) of neurons –we call these conducting impulses **action potentials**
+- Sensory pathways generally consist of 3 neurons in a chain:
+  - **first order sensory neuron** –carries action potentials from the sensory receptor to the central nervous system (to either the spinal cord or brain)
+    - impulse arrives in the **dorsal horn** f the spinal cord, which is where communication between the first-order &amp; second-order sensory neuron occurs
+  - **second order sensory neuron**
+    - cell body of second-order sensory neurons are located inside the dorsal horn of the spinal cord
+    - receives information from first-order sensory neuron –the communication occurs at a specialized junction, called a **synapse**
+    - signal can be inhibited (not passed on) or passed onto the second order neuron at this point
+    - nerve fibers of the second-order sensory neurons cross over from one side of the spinal cord to the other
+      - this cross-over is called d **ecussation**
+      - as a result of decussation, signals that originate on one side of the body get carried to the alternate side of the brain
+    - fibers of second order sensory neurons carry impulses up spinal cord, through the brainstem to the **thalamus** :
+  - **third order sensory neuron**
+    - cell body of third-order sensory neurons are located in the thalamus (in the brain)
+    - second-order neuron passes its signal across a synapse to third-order sensory neuron in the thalamus
+    - fibers of third-order sensory neurons pass upward through the cerebrum to the **primary somatosensory cortex**
+
+
+
+### Video 6.2:  The Anatomy&Physiology of Pain, Part 2
+
+Two pathways related to our perceptions of pain
+
+- ne pathway involves nociceptor passing signal via a **type A delta nerve fiber**
+  - characteristics of these fibers
+    - large diameter nerve fibers
+    - fibers are **myelinated**
+    - fastest speed of signal transduction
+  - carry stimulus information related to thermal and mechanical stimuli
+  - the signals carried by these fibers are perceived as rapid, sharp sensations of pain
+  - impulse is conducted up through the spinal cord &amp; brainstem in the **spinothalamic tract:**
+- The other pathway involves nociceptor passing signal via **type C nerve fibers**
+  - characteristics of these fibers
+    - smallest diameter nerve fibers
+    - fibers are **unmyelinated**
+    - slow speed of signal transduction
+  - carry stimulus information related to all 3 types of stimuli (thermal, mechanical, chemical)
+  - the signals carried by these fibers are perceived as dull, burning, throbbing pain
+  - impulses are conducted up the spinal cord to the brainstem via the **spinoreticular tract**
+    - passes up spinal cord to the brainstem, and then on to multiple sites in brain
+    - adds emotional overtones to perceptions of pain
+
+
+
+### Video 6.3:  The Anatomy&Physiology of Pain, Part 3
+
+Three general mechanisms of pain modulation
+
+- ne type of modulation occurs at the level of communication between the first-order and second-order sensory neurons (in dorsal horn)
+  - ther fibers, called **type A beta fibers** , are also conducting information to this synapse
+    - the **type A beta fibers** are carried in the same nerves that are carrying **type A delta fibers** &amp; **type C fibers**
+    - type A beta fibers (like the type A delta fibers) are large diameter, myelinated fibers (fastest conduction speed)
+    - type A beta neurons also synapse with second-order sensory neurons –and the impulse/information carried by the second-order neuron is conducted via the spinothalamic tract –and is subsequently carried to the primary somatosensory cortex by third-order sensory neurons
+  - type A beta fibers carry information related to touch sensation
+- some modulation can also occur because of **descending inhibitory pathways**
+  - these pathways originate in brainstem but receive input from other parts of brain
+    - when activated, an inhibiting signal is passed to dorsal horn
+    - the signal inhibits transfer of information at the synapse between the first-order and second-order sensory neurons
+  - thus, there is an inhibition of pain-related input flowing up the spinothalamic and reticulospinal tracts
+- the third mechanism of pain modulation is associated with the **endogenous opiod system**
+  - the endogenous opiods:  enkephalins, endorphins, dynorphin
+  - piods are analgesics –i.e., they decrease the perception of pain
+  - in high concentrations in the braintem –there are receptors for the endorphins in the brainstem &amp; spinal cord
+
+
+### Video 6.4:  Types of Pain
+
+Three types of pain:
+
+- **somatic pain**
+  - can be localized and can often be replicated
+  - subcategories:
+    - **superficial somatic pain**
+      - typical experienced in response to mechanical or thermal stimuli
+      - sharp, rapid onset
+    - **deep somatic pain**
+      - typically experience in muscles and joints
+      - usually perceived as aching, throbbing, burning pain
+- **visceral pain**
+  - this types of pain is associated with internal organs, which have nociceptors in their walls
+  - deep throbbing pain
+  - impulses related to this type of pain are carried by type C nerve fibers
+  - through unconscious neural reflexes, this kind of pain can trigger nausea, vomiting and other symptoms
+  - this type of pain is difficult to localize –is often experienced as **referred pain** –i.e., brain interprets the pain as occurring at the body surface
+- **neuropathic pain**
+  - unlike somatic pain &amp; visceral pain, neuropathic pain occurs when nerves themselves are damaged (rather than when nociceptors are activated)
+  - there are varied reasons for this type of pain:
+    - diabetic neuropathy
+    - phantom limb pain
+    - carpal tunnel syndrome
+    - nerves compression or trauma
+
+
+
+### Video 6.5:  Assessing Pain Demonstration
+
+- pain is a subjective experience, so it can be difficult to assess
+
+- comprehensive pain assessment in a health care setting involves a number of question areas
+  - **intensity**
+    - assessed via pain scales
+    - **verbal scales** :
+    - picture scales-
+      - **Veteran and Defense Pain Scale**
+      - **Wong-Baker FACES Scale**
+  - **onset**
+  - **duration**
+  - **frequency**
+  - **location**
+  - **quality**
+    - examples -burning, aching, sharp, etc.
+  - **associated symptoms**
+    - examples- nausea, shortness of breath
+  - **precipitating factors**
+  - **alleviating factors**
+  - **impact**
+    - examples- ability to walk, sleep normally, etc.
+
+
+
+### Video 6.6:  Social, Cultural &amp; Psychological Influences on Pain
+
+- the history of our understanding of pain-
+  - until the 19th century:  pain was dichotomized as either a **somatogenic experience** or a **psychogenic experience-**
+    - pain was thought of as a **linear sensory experience**
+  - in the 20th century- Melzack and Wall developed the **gate control theory of pain** -
+    - pain was is both a sensory and emotional experience
+- influence of social factors on pain-
+  - examples of social factors-
+    - **eduation**
+    - **type of work**
+    - **income-**
+      - less access to healthcare, less continuity of care, more manual labor
+  - Rash Portnoi&#39;s study-
+- pain and culture-
+  - **culture:**
+  - very misunderstood area in terms of pain influence -- vast **heterogeneity** within cultures
+  - social factors often shape cultural belief structures
+- effect of treatment on subsequent pain experiences-
+  - acute pain is **adaptive** (i.e., it serves a purpose)
+  - untreated acute pain may become pathological - chronic pain
+    - chronic pain is not considered to be adaptive
+    - puts a strain on psychological reserves and social resources
+  - certain groups are less likely to receive treatment
+
+
+### Video 6.7:  The Treatment of Pain
+
+- treating pain is important for several reasons-
+  - physicians and nurses make an ethical and professional commitment to decrease suffering and promote comfort
+  - provides comfort
+  - short term and long term consequences of untreated pain-
+    - physiologic consequences-
+    - functional consequences-
+    - psychosocial consequences-
+  - **nociceptive signal** –is ultimately integrated in multiple areas of the brain
+    - manifestations are apparent with physiologic monitoring  and behavioral changes
+      - examples- increased blood pressure, decreased movement, grimacing
+    - best way to assess the pain experience is through the patient&#39;s **self-report**
+      - sometimes a disconnect with actual pain experience and what is reported –always explore further
+        - may use a different term for pain-
+        - may worry about consequences-
+        - barriers to reporting pain-
+- Treating pain-
+  - goal of therapy is individualized- **i.e., patient-focused:**
+  - evaluate risks and benefits of different therapies-

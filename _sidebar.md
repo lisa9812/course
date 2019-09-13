@@ -9,13 +9,18 @@
     * [3_国际经济学<sup style = "color:red">2495字<sup>](docs/1_经济学/3_国际经济学.md)
     * [5_财政学<sup style = "color:red">6431字<sup>](docs/1_经济学/5_财政学.md)
     * [6_产业经济学<sup style = "color:red">3875字<sup>](docs/1_经济学/6_产业经济学.md)
-    * [补漏<sup style = "color:red">355字<sup>](docs/1_经济学/补漏.md)
+    * [补漏<sup style = "color:red">1005字<sup>](docs/1_经济学/补漏.md)
 * 2_金融学
     * [2_金融学<sup style = "color:red">1315字<sup>](docs/2_金融学/2_金融学.md)
     * [9_风险管理<sup style = "color:red">1654字<sup>](docs/2_金融学/9_风险管理.md)
+* 3_CFA
+    * [现金流<sup style = "color:red">375字<sup>](docs/3_CFA/现金流.md)
 * 5_社会科学
 * 6_健康
-    * [stanford_introduction_to_food_and_health<sup style = "color:red">6字<sup>](docs/6_健康/stanford_introduction_to_food_and_health.md)
+    * vs
+        * [vital_signs_3_正在学<sup style = "color:red">1266字<sup>](docs/6_健康/vs/vital_signs_3_正在学.md)
+    * [stanford_introduction_to_food_and_health<sup style = "color:red">78字<sup>](docs/6_健康/stanford_introduction_to_food_and_health.md)
+    * [vital_signs<sup style = "color:red">4462字<sup>](docs/6_健康/vital_signs.md)
 * 9_其它
     * [A_消费者行为学<sup style = "color:red">3262字<sup>](docs/9_其它/A_消费者行为学.md)
     * [B_管理学<sup style = "color:red">1723字<sup>](docs/9_其它/B_管理学.md)
